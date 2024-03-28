@@ -1,0 +1,20 @@
+{
+  "name": "forkify-101",
+  "version": "1.0.0",
+  "description": "a webpage that allow user to search for recipes for any modern dish and also add there own recipe for future reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orisabiyi/forkify-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orisabiyi/forkify-101/issues"
+  },
+  "homepage": "https://github.com/Orisabiyi/forkify-101#readme"
+}

@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Orisabiyi/forkify-101/issues"
   },
-  "homepage": "https://github.com/Orisabiyi/forkify-101#readme"
+  "homepage": "https://github.com/Orisabiyi/forkify-101#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  },
+  "dependencies": {
+    "core-js": "^3.36.1",
+    "regenerator-runtime": "^0.14.1"
+  }
 }

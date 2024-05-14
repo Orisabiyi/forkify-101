@@ -1,27 +1,22 @@
 {
-  "name": "forkify-101",
+  "name": "forkify",
   "version": "1.0.0",
-  "description": "a webpage that allow user to search for recipes for any modern dish and also add there own recipe for future reference",
+  "description": "Recipe Application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "build parcel index.html"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Orisabiyi/forkify-101.git"
-  },
-  "keywords": [],
-  "author": "",
+  "author": "Orisabiyi David",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Orisabiyi/forkify-101/issues"
-  },
-  "homepage": "https://github.com/Orisabiyi/forkify-101#readme",
   "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "@parcel/transformer-sass": "^2.0.0-rc.0",
     "parcel": "^2.0.0-rc.0"
   },
   "dependencies": {
-    "core-js": "^3.36.1",
+    "core-js": "^3.36.0",
+    "fractional": "^1.0.0",
     "regenerator-runtime": "^0.14.1"
   }
 }
